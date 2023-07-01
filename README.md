@@ -1,4 +1,10 @@
 ### Hi there 👋
+![MyKryptonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyKryptonite&show_icons=true&theme=transparent)
+- 🌱 I’m currently learning http reuqest, web developing and python
+- 👯 I’m looking to collaborate on .net tools
+- 📫 How to reach me: dm me on discord fr#5102
+- ⚡ Fun fact: im retarded
+
 
 <!--
 **MyKryptonite/MyKryptonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyKryptonite)](https://github.com/anuraghazra/github-readme-stats)
 -->
