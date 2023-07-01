@@ -6,6 +6,7 @@
 - 📫 How to reach me: dm me on discord fr#5102
 - ⚡ Fun fact: im retarded
 
+![Screenshot_91](https://github.com/MyKryptonite/MyKryptonite/assets/138227664/bb409d16-5e80-40b8-abf1-54234d6e7623)
 
 <!--
 **MyKryptonite/MyKryptonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
