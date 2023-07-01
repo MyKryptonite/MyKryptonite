@@ -7,7 +7,7 @@
 - ⚡ Fun fact: im retarded
 
 ![Screenshot_91](https://github.com/MyKryptonite/MyKryptonite/assets/138227664/bb409d16-5e80-40b8-abf1-54234d6e7623)
-![b5fd3fbe984103e08b9482471484394b](https://github.com/MyKryptonite/MyKryptonite/assets/138227664/8592181f-0b8f-4f59-a4a8-a5ced25faf9b)
+
 
 <!--
 **MyKryptonite/MyKryptonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
