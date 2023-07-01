@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![MyKryptonite's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyKryptonite&show_icons=true&theme=transparent)
+- 🔭 I’m currently working on c# tool to automate generating nitro code and parse it to checker automated
 - 🌱 I’m currently learning http reuqest, web developing and python
 - 👯 I’m looking to collaborate on .net tools
 - 📫 How to reach me: dm me on discord fr#5102
